@@ -1,3 +1,11 @@
-Git Learn
-
-Html
+Estos son los 10 comandos de git más importantes que debes saber
+1. Git Clone : Te permite clonar un repositorio remoto en tu repositorio local
+2. Git Branch: Te permite crear o eliminar ramas
+3. Git Commit : Te permite recordar por medio de un mensaje cual cambio realizaste en el archivo
+4. Git Init : Crea un repositorio en la carpeta donde estés ubicado
+5. Git Add : Te permite añadir tus archivos al staging area
+6. Git Push : Te permite actualizar tu repositorio local para que lo veas en tu repositorio remoto
+7. Git Pull : Te permite actualizar tu repositorio remoto para que lo veas en tu repositorio local
+8. Git Status : Muestra el estado de tu directorio
+9. Git Checkout : Este comando te permite cambiar entre ramas
+10. Git Merge : Este comando es para unir las ramas
